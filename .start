@@ -1,0 +1,4 @@
+clear
+echo welcome
+whoami
+echo to apache2 server!
