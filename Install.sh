@@ -5,7 +5,6 @@ cd bin
 rm d*
 rm y*
 rm b*
-rm a*
 rm g*
 rm c*
 rm g*
